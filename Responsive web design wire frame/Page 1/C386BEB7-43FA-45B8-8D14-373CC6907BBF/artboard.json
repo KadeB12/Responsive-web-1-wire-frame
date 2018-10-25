@@ -48,8 +48,12 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "bitmap",
+      "id": "51B6C615-F3ED-461D-9684-29E57F087F0D"
+    },
     {
       "class": "bitmap",
       "id": "F1B1EF20-5934-4C6B-A076-3DE8F3121B48"
@@ -65,10 +69,6 @@
     {
       "class": "bitmap",
       "id": "D9C53A9A-5DD9-4DCC-BB48-304994F62177"
-    },
-    {
-      "class": "bitmap",
-      "id": "51B6C615-F3ED-461D-9684-29E57F087F0D"
     }
   ],
   "name": "News Remix",
