@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "24862E08-0114-488C-AA2D-BA2C20D113FB",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "75065603-8EE2-491C-9924-5C09E306199F",
+  "do_objectID": "2ED6B4AE-D413-4B18-B526-32DEF88B34CE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F0D41566-2413-4460-B790-2C76D88C7561",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,17 +24,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "09D014A1-9A2C-4DFD-8F7C-B7DD15181C27",
     "height": 1024,
     "width": 320,
-    "x": -44,
+    "x": 350,
     "y": -72
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "54D9A479-A84C-417B-9620-FC8962C119F0",
     "guides": [
     ]
   },
@@ -46,24 +50,8 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "bitmap",
-      "id": "D78CD4AF-5B22-467E-BB0C-754627BA85AC"
-    },
-    {
-      "class": "bitmap",
-      "id": "9A12C8F4-1966-48C0-AC41-448092224610"
-    },
-    {
-      "class": "bitmap",
-      "id": "5D8AAF6F-8ED9-4293-B9A6-6E295AA92E3E"
-    },
-    {
-      "class": "bitmap",
-      "id": "ECA36B33-07BE-4F25-9834-7E3A36983BB3"
-    }
   ],
-  "name": "home page",
+  "name": "News Page",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -79,6 +67,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "79539A46-2F5A-435C-95FC-21CBC9708940",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -87,6 +76,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "79234009-07C1-4340-A7D0-C560093985DC",
     "guides": [
     ]
   }
