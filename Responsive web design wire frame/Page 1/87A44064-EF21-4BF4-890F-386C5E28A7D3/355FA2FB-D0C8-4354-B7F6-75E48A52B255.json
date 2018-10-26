@@ -21,8 +21,8 @@
     "do_objectID": "6495E002-D2D5-4AF0-92AB-5C54C32645FB",
     "height": 480,
     "width": 478,
-    "x": 93,
-    "y": 1311
+    "x": 100,
+    "y": 1065
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.8225180697278912,
+          "green": 0.8225180697278912,
+          "red": 0.8225180697278912
         },
         "fillType": 0,
         "isEnabled": true,
