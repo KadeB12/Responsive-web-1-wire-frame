@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "Alumni "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 171,
     "width": 515,
     "x": 681,
-    "y": 2359
+    "y": 2490
   },
-  "glyphBounds": "{{3, 12}, {158, 37}}",
+  "glyphBounds": "{{0, 12}, {147, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header Copy 2",
+  "name": "Alumni",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

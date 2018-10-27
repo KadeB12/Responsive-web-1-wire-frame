@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "height": 4246,
     "width": 1440,
-    "x": 5865,
+    "x": 7374,
     "y": 1688
   },
   "hasBackgroundColor": false,
@@ -72,15 +72,7 @@
     },
     {
       "class": "text",
-      "id": "607032D3-78AE-413B-A25B-11AB91E88A85"
-    },
-    {
-      "class": "text",
       "id": "6C15ED13-EEE0-4C02-B0EF-4685B2BD1671"
-    },
-    {
-      "class": "text",
-      "id": "494709A8-FA8F-476F-872A-3C2716D4E9BC"
     },
     {
       "class": "text",
@@ -88,15 +80,7 @@
     },
     {
       "class": "text",
-      "id": "8D589EFE-F539-42DD-AB2F-81624D204F53"
-    },
-    {
-      "class": "text",
       "id": "2C85D14C-0A80-4AAB-A565-32D87DF132A6"
-    },
-    {
-      "class": "text",
-      "id": "7D02B5D1-6258-441A-BD2A-AE6FDF3BED1C"
     },
     {
       "class": "text",
@@ -104,15 +88,7 @@
     },
     {
       "class": "text",
-      "id": "2CD2824F-B5A6-4CB9-B6BC-69832FAD1A61"
-    },
-    {
-      "class": "text",
       "id": "B103821F-A351-488C-B4E3-CE4FDA2C2A9E"
-    },
-    {
-      "class": "text",
-      "id": "D2E7A680-AB9B-4679-9279-12D3C72AD37E"
     },
     {
       "class": "text",
@@ -237,6 +213,38 @@
     {
       "class": "rectangle",
       "id": "0D1651CA-843F-481B-BB9F-F7C9A9A4E6E2"
+    },
+    {
+      "class": "text",
+      "id": "2F45228D-10E3-4E26-A308-146C5D5B3928"
+    },
+    {
+      "class": "text",
+      "id": "D801BE53-B5E3-4CE4-967B-9EF92A7B4B2D"
+    },
+    {
+      "class": "text",
+      "id": "CE1E19B0-D788-48BD-BFC8-E4102FBF7185"
+    },
+    {
+      "class": "rectangle",
+      "id": "1214437E-B3B4-46AA-A2CF-CF1A27B96826"
+    },
+    {
+      "class": "text",
+      "id": "18D20931-6E24-4FBF-8366-1581B5666B73"
+    },
+    {
+      "class": "text",
+      "id": "375A5BBD-51E6-4564-B55F-DBAEAF663A53"
+    },
+    {
+      "class": "text",
+      "id": "72F5B20D-8843-4575-AFD2-1DCB1D3E8F20"
+    },
+    {
+      "class": "rectangle",
+      "id": "29FD8019-BEB9-467A-8EF1-73E21E888BD2"
     }
   ],
   "name": "Program Statistics Wireframe",

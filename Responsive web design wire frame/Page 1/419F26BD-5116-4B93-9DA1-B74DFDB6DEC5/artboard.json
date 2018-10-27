@@ -27,8 +27,8 @@
     "do_objectID": "6C28112C-BDAC-4DE8-BF4D-C28F5D54231D",
     "height": 2760,
     "width": 1440,
-    "x": 10398,
-    "y": 5215
+    "x": 9564,
+    "y": 9472
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -247,7 +247,7 @@
       "id": "B9FE91F7-9AFC-4FFB-86C4-771785AC9D5B"
     }
   ],
-  "name": "wireframe Copy",
+  "name": "Gallery works info page",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

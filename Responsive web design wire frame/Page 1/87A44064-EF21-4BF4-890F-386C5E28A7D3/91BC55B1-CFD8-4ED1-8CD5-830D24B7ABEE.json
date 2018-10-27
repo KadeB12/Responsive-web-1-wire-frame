@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 62,
+        "length": 41,
         "location": 0
       }
     ],
-    "string": "Names of Stories atis. In feugiat sed dolor nec gravida. Sed s"
+    "string": "Undergreaduate Degrees Offered By EWU VCD"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "1487C282-5D71-45BA-8CE3-8EEF30B8602A",
     "height": 171,
-    "width": 515,
+    "width": 578,
     "x": 103,
     "y": 275
   },
-  "glyphBounds": "{{1, 11}, {508, 166}}",
+  "glyphBounds": "{{1, 12}, {551, 106}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Names of Stories ati Copy 2",
+  "name": "Undergreaduate Degre",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

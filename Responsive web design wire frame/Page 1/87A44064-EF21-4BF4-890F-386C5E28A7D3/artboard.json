@@ -52,10 +52,6 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "C134C29C-6101-4AAE-9B53-9F57F2402F16"
-    },
-    {
-      "class": "bitmap",
       "id": "79712F0C-66C3-4953-8569-3149F9A9201A"
     },
     {
@@ -149,10 +145,6 @@
     {
       "class": "rectangle",
       "id": "BFDA74FF-AC55-4F4B-B67A-95AF0B2BB6D4"
-    },
-    {
-      "class": "rectangle",
-      "id": "84F38062-27F1-444E-9D5E-32DB054EF294"
     },
     {
       "class": "rectangle",

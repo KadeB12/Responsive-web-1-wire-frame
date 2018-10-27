@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "Current Students"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 171,
     "width": 515,
     "x": 210,
-    "y": 1779
+    "y": 1880
   },
-  "glyphBounds": "{{3, 12}, {158, 37}}",
+  "glyphBounds": "{{2, 11}, {367, 39}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header Copy",
+  "name": "Current Students",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

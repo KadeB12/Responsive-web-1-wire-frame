@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Header"
+    "string": "Faculty Directory"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,9 +54,9 @@
     "height": 171,
     "width": 515,
     "x": 681,
-    "y": 862
+    "y": 1010
   },
-  "glyphBounds": "{{3, 12}, {158, 37}}",
+  "glyphBounds": "{{4, 12}, {363, 47}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Header",
+  "name": "Faculty Directory",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
