@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1C3F00D7-4FBB-43A5-8B53-A634E53B5715",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42B30764-2820-413D-9E3C-7CD04C4F51AC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B68C15FB-28E5-4092-994F-712F7BA1D066",
+    "height": 900,
+    "width": 1440,
+    "x": 0,
+    "y": 1798
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Color/Black Blue Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D50FD525-9D42-428E-BCE4-58FF5A20E46A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B14609D9-8A74-4BF6-820F-2E01BF26C089",
+  "verticalSpacing": 0
+}

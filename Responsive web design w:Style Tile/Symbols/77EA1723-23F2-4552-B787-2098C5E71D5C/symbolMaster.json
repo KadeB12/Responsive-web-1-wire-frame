@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "07018F61-6708-4968-A9C4-B1124DE2C82F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1342,
+  "clippingMaskMode": 0,
+  "do_objectID": "77EA1723-23F2-4552-B787-2098C5E71D5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2D8DF04-058F-48F6-928C-33FF17538A5A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B96630C-7BF5-43D9-8401-70F273DACF30",
+    "height": 900,
+    "width": 1440,
+    "x": 1582,
+    "y": 3736
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "62A40F18-B854-49D1-9901-D798955FC2E8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6DA72141-E9F0-4573-BA59-6D70D5484A25"
+    }
+  ],
+  "name": "Color/Black Blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7F4ECC97-24C1-47D6-88D5-1AF11A5D47F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F52740C7-44C4-4A08-9926-7F404D156080",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "47D7B014-4FA6-4E35-AB82-C49BA26F1159",
+    "guides": [
+    ]
+  }
+}

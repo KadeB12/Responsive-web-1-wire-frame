@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "36F8D39B-F38A-4007-BEF7-2A9FE53BAD2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3BA70E0-E20D-43BF-9FFD-17FB55C6D060",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3230CDF-D858-4796-8211-2A6B4BF420E5",
+    "height": 886,
+    "width": 1440,
+    "x": 0,
+    "y": 2670
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atom/ Color Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BC669FA-B086-4B2D-B6F7-8A2C48CF72DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B14609D9-8A74-4BF6-820F-2E01BF26C089",
+  "verticalSpacing": 0
+}

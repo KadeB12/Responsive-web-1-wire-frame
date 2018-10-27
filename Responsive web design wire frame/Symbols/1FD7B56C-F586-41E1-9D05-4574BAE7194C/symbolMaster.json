@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E98EC0FF-8D02-4C71-B017-4D5EEF1CF74A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 874,
+  "clippingMaskMode": 0,
+  "do_objectID": "1FD7B56C-F586-41E1-9D05-4574BAE7194C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3DC3AD5-7DDA-4686-81E8-EBB643B918FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "99E72654-2C23-4A7E-9CBE-C28F06EF8042",
+    "height": 900,
+    "width": 1440,
+    "x": 100,
+    "y": 3734
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "82DD3229-29BF-4593-A359-973D3C896D57",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "43AA8E31-CAF6-4AFB-A152-FD0FF75CBBF9"
+    }
+  ],
+  "name": "Color/White",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A53B037A-B41C-4FD6-BDEA-4A9B632733C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D461E2C2-2CE7-43E7-BC7E-ADFE56E94127",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F5A6D233-3F35-4B60-BC50-0B3E904DF80E",
+    "guides": [
+    ]
+  }
+}

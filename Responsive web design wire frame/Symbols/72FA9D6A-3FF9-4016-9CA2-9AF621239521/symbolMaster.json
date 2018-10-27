@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "71202F5F-B163-4B37-89D6-F7DAFD1D2FE1",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1113,
+  "clippingMaskMode": 0,
+  "do_objectID": "72FA9D6A-3FF9-4016-9CA2-9AF621239521",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "619979DA-6DB2-4E68-AD26-A8E7F1416F8D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "55707E10-36D8-41C7-94AC-24B3A547A75C",
+    "height": 900,
+    "width": 1440,
+    "x": 3064,
+    "y": 3736
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3C6BE342-C048-4537-80E4-8248F32688D0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "666C7674-5A36-4D8A-B731-C73B5C194C4F"
+    }
+  ],
+  "name": "Color/Dark Blue",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FB1B918-C5A0-4451-98E6-127E8934B4D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5836E78E-978F-40CA-8BDF-4FC1B657BB57",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4AE5B6D-9677-4C7E-A261-B8823B269255",
+    "guides": [
+    ]
+  }
+}

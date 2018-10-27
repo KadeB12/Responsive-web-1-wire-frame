@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D38DA646-DA87-4BEB-9EC5-81D75FAE6B65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 902,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule/ Header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F20E7A41-E758-4806-B90A-C1276427E99A",
+      "overrideName": "29F2E486-7F12-4824-BAA8-A37239E0D08E_symbolID",
+      "value": "D461E2C2-2CE7-43E7-BC7E-ADFE56E94127"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47127E2D-0187-4AD3-B979-D04AC2C73406",
+      "overrideName": "EFE29B1E-2E57-4A96-A576-4C4F8CBDED96_stringValue",
+      "value": "Degrees Offered In Visual Communications Design"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6768A7B4-D65A-49F2-BA11-F5AE3D752DDD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,99 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7234A60E-629A-4B03-A872-1222C40D796A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "66033954-8022-4C3A-B7C4-99FC229E9A21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "005AABFD-7A34-4B75-B54C-04B99B2F066E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4300FE6E-5579-4804-BB8F-16B958DF87DE",
+    "height": 1869,
+    "width": 1440,
+    "x": 1164,
+    "y": -2056
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BD4CD28B-928A-4C22-82D1-EE09784F658E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "71C9B0EC-D892-47C9-8BE4-90CE7905BB28"
+    },
+    {
+      "class": "bitmap",
+      "id": "6F57A04D-CF48-48FF-8652-6FCAE831E460"
+    },
+    {
+      "class": "bitmap",
+      "id": "4DEAC37C-F3E4-44EE-B378-B02E5D39E6BB"
+    },
+    {
+      "class": "bitmap",
+      "id": "43515D75-4398-446A-8063-2495C6F8100C"
+    }
+  ],
+  "name": "Homepage Remix",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7AC33219-A728-41A5-93FF-18F5C40A590D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5FD7D2B4-4B52-4682-8169-773F375B669E",
+    "guides": [
+    ]
+  }
+}
